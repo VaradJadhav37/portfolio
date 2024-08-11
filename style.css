@@ -330,8 +330,8 @@ body {
 @media screen and (max-width:500px)
 {
   .navbox a {
-    margin: 0 10px;
-    font-size: 8px;
+    margin: 0 8px;
+    font-size: 10px;
     text-decoration: none;
     color: #ECF0F1;
     font-family: 'Space Mono', monospace;
