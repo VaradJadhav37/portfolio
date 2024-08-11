@@ -49,7 +49,7 @@ body {
 }
 
 .contentcontainer {
-  margin-top: 80px;
+  margin-top: 38px;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -343,5 +343,8 @@ body {
     opacity: 100%;
     letter-spacing: 0.65px;
     color: #3498DB;
+  }
+  .contentcontainer{
+    margin-top: 10px;
   }
 }
