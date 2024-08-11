@@ -330,8 +330,8 @@ body {
 @media screen and (max-width:500px)
 {
   .navbox a {
-    margin: 0 12px;
-    font-size: 10px;
+    margin: 0 10px;
+    font-size: 8px;
     text-decoration: none;
     color: #ECF0F1;
     font-family: 'Space Mono', monospace;
@@ -341,7 +341,7 @@ body {
   }
    .navbox a:hover {
     opacity: 100%;
-    letter-spacing: 1px;
+    letter-spacing: 0.65px;
     color: #3498DB;
   }
 }
