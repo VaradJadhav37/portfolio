@@ -339,4 +339,9 @@ body {
     opacity: 80%;
     transition: opacity 0.3s ease, letter-spacing 0.3s ease;
   }
+   .navbox a:hover {
+    opacity: 100%;
+    letter-spacing: 1px;
+    color: #3498DB;
+  }
 }
