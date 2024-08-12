@@ -5,6 +5,7 @@
   background-color: #0c0c0ca7;
   border-radius: 3px;
   backdrop-filter: blur(20px);
+  -webkit-backdrop-filter: blur(20px);
   position: fixed;
   top: 0;
   left: 0;
@@ -63,7 +64,7 @@ body {
   width: 370px;
   height: 510px;
   padding: 20px;
-  border-radius: 9%;
+  border-radius: 5%;
   margin-right: 70px;
 }
 
