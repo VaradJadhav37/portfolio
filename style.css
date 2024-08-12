@@ -4,8 +4,8 @@
   align-items: center;
   background-color: #0c0c0ca7;
   border-radius: 3px;
-  backdrop-filter: blur(20px);
-  -webkit-backdrop-filter: blur(20px);
+  backdrop-filter: blur(27px);
+  -webkit-backdrop-filter: blur(27px);
   position: fixed;
   top: 0;
   left: 0;
@@ -64,7 +64,7 @@ body {
   width: 370px;
   height: 510px;
   padding: 20px;
-  border-radius: 4px;
+  border-radius: 7px;
   margin-right: 70px;
 }
 
