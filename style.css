@@ -114,26 +114,12 @@ body {
   border-radius: 50%;
   margin: 10px;
   margin-bottom: 25px;
-  box-shadow: 2px 2px 2px 2px #526D82;
-  animation: rotateShadow 5s infinite ease-in; 
+  
 }
 
-@keyframes rotateShadow {
-  0% {
-    box-shadow: 2px 2px 2px 2px #526D82;
-  }
-  25% {
-    box-shadow: -2px 2px 2px 2px #526D82;
-  }
-  50% {
-    box-shadow: -2px -2px 2px 2px #526D82;
-  }
-  75% {
-    box-shadow: 2px -2px 2px 2px #526D82;
-  }
-  100% {
-    box-shadow: 2px 2px 2px 2px #526D82;
-  }
+.profile:hover{
+  box-shadow: 2px 2px 2px 2px #FFDAB3;
+  transition: 0.75s ease-in-out;
 }
 
 .about {
